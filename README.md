@@ -16,7 +16,6 @@ Le projet **Minishell** consiste à créer un interpréteur de commandes inspir�
 * 🔤 **Parsing avancé :** 
   * Gestion des guillemets simples (`'`) et doubles (`"`) avec des règles de citation spécifiques.
   * Expansion des variables d'environnement (ex: `$USER`, `$?`).
-* ⚡ **Signaux :** Gestion interactive de `Ctrl+C`, `Ctrl+\` et `Ctrl+D` similaire à un vrai shell.
 * 🛠️ **Builtins intégrés :** `echo` (avec `-n`), `cd`, `pwd`, `export`, `unset`, `env`, et `exit`.
 
 ---
