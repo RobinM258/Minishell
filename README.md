@@ -36,7 +36,7 @@ Le programme se décompose généralement en plusieurs grandes étapes logiques 
 Clone le dépôt, compile le projet à l'aide du `Makefile` fourni, puis lance le binaire :
 
 ```bash
-git clone [https://github.com/TonPseudo/minishell.git](https://github.com/TonPseudo/minishell.git)
+git clone https://github.com/RobinM258/Minishell.git
 cd Minishell
 make
 ./minishell
